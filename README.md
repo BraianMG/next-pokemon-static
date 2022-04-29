@@ -14,3 +14,5 @@
     ```
 - A disfrutar!
 
+## Ver online
+- https://braianmg-next-pokemon-static.vercel.app/
